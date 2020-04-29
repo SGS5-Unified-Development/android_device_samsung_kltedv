@@ -1,0 +1,44 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "SGS5-Unified-Development/android_device_samsung_kltedv",
+        "target_path":  "device/samsung/kltedv",
+        "revision":     "queso"
+    },
+    {
+        "remote":       "github",
+        "repository":   "SGS5-Unified-Development/android_device_samsung_klte-common",
+        "target_path":  "device/samsung/klte-common",
+        "revision":     "queso"
+    },
+    {
+        "remote":       "github",
+        "repository":   "SGS5-Unified-Development/android_device_samsung_msm8974-common",
+        "target_path":  "device/samsung/msm8974-common",
+        "revision":     "queso"
+    },
+    {
+        "remote":       "github",
+        "repository":   "SGS5-Unified-Development/android_device_samsung_qcom-common",
+        "target_path":  "device/samsung/qcom-common",
+        "revision":     "queso"
+    },
+    {
+        "remote":       "github",
+        "repository":   "SGS5-Unified-Development/android_kernel_samsung_msm8974",
+        "target_path":  "kernel/samsung/msm8974",
+        "revision":     "queso"
+    },
+    {
+        "remote":       "github",
+        "repository":   "SGS5-Unified-Development/android_hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "revision":     "queso"
+    },
+    {
+        "remote":       "github",
+        "repository":   "TheMuppets/proprietary_vendor_samsung",
+        "target_path":  "vendor/samsung",
+        "revision":     "lineage-17.1"
+    }
+]

@@ -1,5 +1,6 @@
 #
-# Copyright (C) 2018-2020 The LineageOS Project
+# Copyright (C) 2011 The Android Open-Source Project
+# Copyright (C) 2020 BootleggersROM
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,11 +13,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kltedv.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_kltedv-user \
-    lineage_kltedv-userdebug \
-    lineage_kltedv-eng
+    $(LOCAL_DIR)/bootleg_kltedv.mk
